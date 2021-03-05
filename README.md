@@ -5,4 +5,6 @@ This is a freecodecamp project from the track 'Frontend libraries'
 Built with React and some css. 
 <hr/>
 
+Yes, it is a calculator. It does the calculate.
+
 ![](calc.gif)
